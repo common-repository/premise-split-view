@@ -1,0 +1,78 @@
+/**
+ *
+ */
+
+@media screen and ( max-width: 768px ) {
+	.psv-compare-wrapper .psv-compare-inner {
+		padding: 125% 0 0 0;
+	}
+
+	/*.psv-compare-wrapper .psv-compare-front {
+		/*width: 100%;  For mobile, we start at full width */
+		/*width: 65%;
+	}*/
+}
+
+/*.psv-compare-wrapper.psv-mobile .psv-compare-handle:before,
+.psv-compare-wrapper.psv-mobile .psv-compare-handle:after {
+	content: '';
+	position: absolute;
+	height: 0px;
+	width: 100%;
+	left: 0;
+}
+
+.psv-compare-wrapper.psv-mobile .psv-compare-handle:before {
+	top: 5px;
+}
+
+.psv-compare-wrapper.psv-mobile .psv-compare-handle:after {
+	bottom: 5px;
+}
+
+.psv-compare-wrapper.psv-mobile .psv-compare-handle.psv-dragging:before,
+.psv-compare-wrapper.psv-mobile .psv-compare-handle.psv-dragging:after {
+	height: 160px;
+}
+
+.psv-compare-wrapper.psv-mobile .psv-compare-handle .psv-slide-right,
+.psv-compare-wrapper.psv-mobile .psv-compare-handle .psv-slide-left {
+	position: absolute;
+	left: 50%;
+	margin-left: -30px;
+	height: 30px;
+	font-size: 1.5em;
+	color: #fff;
+	text-align: center;
+	z-index: 99;
+	background-color: inherit;
+	transition: all .4s ease-in-out;
+}
+
+.psv-compare-wrapper.psv-mobile .psv-compare-handle .psv-slide-right,
+.psv-compare-wrapper.psv-mobile .psv-compare-handle .psv-slide-left,
+.psv-compare-wrapper.psv-mobile .psv-compare-handle .psv-slide-right .fa,
+.psv-compare-wrapper.psv-mobile .psv-compare-handle .psv-slide-left .fa {
+	line-height: 30px;
+	width: 60px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.psv-compare-wrapper.psv-mobile .psv-compare-handle .psv-slide-right {
+	top: 0;
+	border-radius: 30px 30px 0 0;
+}
+
+.psv-compare-wrapper.psv-mobile .psv-compare-handle .psv-slide-left {
+	top: 35px;
+	border-radius: 0 0 30px 30px;
+}
+
+.psv-compare-wrapper.psv-mobile .psv-compare-handle .psv-slide-right:hover,
+.psv-compare-wrapper.psv-mobile .psv-compare-handle .psv-slide-left:hover,
+.psv-compare-wrapper.psv-mobile .psv-compare-handle:hover .psv-slide-right,
+.psv-compare-wrapper.psv-mobile .psv-compare-handle:hover .psv-slide-left {
+	opacity: 0.8;
+
+}*/
